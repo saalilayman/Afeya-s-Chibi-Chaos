@@ -14,7 +14,7 @@ From the moment you launch the game, you're greeted by a glowing carnival tent, 
 
 Ready to play? It takes less than a minute:
 
-1. Download the latest `AfeyaChibiChaos.zip` from the [Releases page](#) *(replace with your release URL)*
+1. Download the latest `AfeyaChibiChaos.zip` from the [Releases page](https://github.com/saalilayman/Afeya-s-Chibi-Chaos/releases)
 2. Extract the zip file anywhere on your computer
 3. Double-click `AfeyaChibiChaos.exe` to play
 
