@@ -16,7 +16,7 @@ Choose **Rocky's Birthday Delivery**, dive into **Whack-A-Villain**, tweak your 
 
 Ready to play? It takes less than a minute:
 
-1. Download the latest `AfeyaChibiChaos.zip` from the [Releases page](https://github.com/saalilayman/Afeya-s-Chibi-Chaos/releases/tag/v.1.0.0) *(replace with your release URL)*
+1. Download the latest `AfeyaChibiChaos.zip` from the [Releases page](https://github.com/saalilayman/Afeya-s-Chibi-Chaos/releases/tag/v.1.0.0)
 2. Extract the zip file anywhere on your computer
 3. Double-click `AfeyaChibiChaos.exe` to play
 
