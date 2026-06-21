@@ -20,6 +20,10 @@ Ready to play? It takes less than a minute:
 2. Extract the zip file anywhere on your computer
 3. Double-click `AfeyaChibiChaos.exe` to play
 
+> **Windows users:** Windows may block the first launch and show a **"Windows protected your PC"** warning. If that happens, click **Run anyway**. Sorry for the inconvenience, but I'd have to pay Microsoft $200 to get rid of this message.
+
+> ![Windows protected your PC warning — click Run anyway to launch Afeya's Chibi Chaos](public_repo/windows-protected-your-pc.png)
+
 > **Note:** Both `AfeyaChibiChaos.exe` and the `_internal/` folder must stay together in the same directory. Do not move one without the other.
 
 ## System Requirements
