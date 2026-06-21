@@ -1,6 +1,8 @@
 # Afeya's Chibi Chaos
 
-**A birthday-themed desktop party game packed with chibi characters from your favorite fandoms — two mini-games, cinematic cutscenes, and a whole lot of chaos.**
+**A birthday-themed indie desktop game packed with chibi characters made by a complete beginners after 2.5 weeks of doing computer science (go easy on me) for his girlfriend. Two mini-games, cinematic cutscenes, and a whole lot of chaos.**
+
+The rest of this release description is AI so bear with it. T-T
 
 Step into a colorful carnival arcade where every screen is bursting with personality. Whether you're sorting falling chibi heads into love baskets and coffins, or whacking villains with a themed cursor of your choice, *Afeya's Chibi Chaos* is built to be picked up in seconds and played for hours.
 
