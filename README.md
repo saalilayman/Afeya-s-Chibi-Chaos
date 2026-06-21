@@ -8,7 +8,7 @@ Step into a colorful carnival arcade where every screen is bursting with persona
 
 ![Afeya's Chibi Chaos main menu — a vibrant carnival arcade with prize machines, whack-a-mole, and chibi Afeya welcoming you to play](public_repo/main_menu.png)
 
-From the moment you launch the game, you're greeted by a glowing carnival tent, arcade machines, and a menu that practically dares you *not* to click something. Choose **Rocky's Birthday Delivery**, dive into **Whack-A-Villain**, tweak your settings, or jump straight in.
+Choose **Rocky's Birthday Delivery**, dive into **Whack-A-Villain**, tweak your settings, or jump straight in.
 
 ---
 
