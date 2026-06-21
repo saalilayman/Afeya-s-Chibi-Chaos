@@ -4,11 +4,11 @@
 
 The rest of this release description is AI so bear with it. T-T
 
-Step into a colorful carnival arcade where every screen is bursting with personality. Whether you're sorting falling chibi heads into love baskets and coffins, or whacking villains with a themed cursor of your choice, *Afeya's Chibi Chaos* is built to be picked up in seconds and played for hours.
+Step into a colorful carnival arcade where every screen is bursting with personality. Whether you're sorting falling chibi heads into love baskets and coffins, or whacking villains with a themed cursor of your choice, Afeya's Chibi Chaos is built to be picked up in seconds and played for hours.
 
 ![Afeya's Chibi Chaos main menu — a vibrant carnival arcade with prize machines, whack-a-mole, and chibi Afeya welcoming you to play](public_repo/main_menu.png)
 
-From the moment you launch the game, you're greeted by a glowing carnival tent, arcade machines, and a menu that practically dares you *not* to click something. Choose **Rocky's Birthday Delivery**, dive into **Whack-A-Villain**, tweak your settings, or jump straight in — the party starts here.
+From the moment you launch the game, you're greeted by a glowing carnival tent, arcade machines, and a menu that practically dares you *not* to click something. Choose **Rocky's Birthday Delivery**, dive into **Whack-A-Villain**, tweak your settings, or jump straight in.
 
 ---
 
@@ -16,7 +16,7 @@ From the moment you launch the game, you're greeted by a glowing carnival tent, 
 
 Ready to play? It takes less than a minute:
 
-1. Download the latest `AfeyaChibiChaos.zip` from the [Releases page](https://github.com/saalilayman/Afeya-s-Chibi-Chaos/releases)
+1. Download the latest `AfeyaChibiChaos.zip` from the [Releases page](#) *(replace with your release URL)*
 2. Extract the zip file anywhere on your computer
 3. Double-click `AfeyaChibiChaos.exe` to play
 
@@ -24,7 +24,7 @@ Ready to play? It takes less than a minute:
 
 > ![Windows protected your PC warning — click Run anyway to launch Afeya's Chibi Chaos](public_repo/windows-protected-your-pc.png)
 
-> **Note:** Both `AfeyaChibiChaos.exe` and the `_internal/` folder must stay together in the same directory. Do not move one without the other.
+> **Note:** Both `AfeyaChibiChaos.exe` and the `_internal/` folder must stay together in the same folder. Do not move one without the other.
 
 ## System Requirements
 
